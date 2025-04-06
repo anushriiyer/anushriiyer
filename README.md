@@ -5,11 +5,8 @@
 <h1 align="center">hello! i'm anushri </h1>
 <p align="left" style="font-size: 25;">
 
- 📍 senior at ntu, singapore 🇸🇬</p>
-
- ⚙️ b.eng computer science with a second major in business (international trading)
-
- 🤍 current mission: **data science & machine learning**
-
- 📫 open for projects at **anushriiiyer@gmail.com**
-
+📚 Senior at the Nanyang Technological University, majoring in Computer Science.
+⚙️ Former Data & Innovation Intern @ Singtel, NCS
+🏆 HackSingapore Finalist - Social Innovation
+💡 Currently working on Data Science and Machine Learning Projects
+🤍 In love with Tech x Design
