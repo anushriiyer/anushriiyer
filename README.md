@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="readme.gif" width="800" alt="ReadMe">
-</div>
+
 
 <h1 align="center">hello! i'm anushri </h1>
 <p align="left" style="font-size: 25;">
